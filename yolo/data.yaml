@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['100 tk', '1000 tk', '200 tk', '500 tk', 'objects']
+
+roboflow:
+  workspace: diba-txjyi
+  project: my-first-project-syrcf
+  version: 3
+  license: Private
+  url: https://app.roboflow.com/diba-txjyi/my-first-project-syrcf/3
