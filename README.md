@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deployment of Bangladeshi Taka Note Detection Model Using REST API & Docker
 
 ## Project Overview
@@ -610,3 +611,6 @@ This project is for educational purposes as part of the assignment.
 ---
 
 **Last Updated:** January 2026
+=======
+# currency-detection
+>>>>>>> 7e06c5a96b877bdcba4179c1a2001bf49d706d3b
